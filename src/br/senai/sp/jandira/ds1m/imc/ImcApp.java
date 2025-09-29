@@ -1,6 +1,6 @@
-package br.senai.jandira.ds1m.imc;
+package br.senai.sp.jandira.ds1m.imc;
 
-import br.senai.jandira.ds1m.imc.model.CalculadoraImc;
+import br.senai.sp.jandira.ds1m.imc.model.CalculadoraImc;
 
 public class ImcApp {
     public static void main(String[] args) {

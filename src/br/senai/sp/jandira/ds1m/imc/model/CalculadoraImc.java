@@ -1,4 +1,4 @@
-package br.senai.jandira.ds1m.imc.model;
+package br.senai.sp.jandira.ds1m.imc.model;
 import java.util.Scanner;
 
 public class CalculadoraImc {
