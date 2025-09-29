@@ -19,6 +19,14 @@ public class CalculadoraImc {
         System.out.println("Digite a altura do paciente: (em CM)");
         altura = leitor.nextDouble();
 
+        calcularImc();
+    }
+
+
+    public void calcularImc(){
+        double alturaMetros = altura / 100.0;
+        imc = peso / (alturaMetros * alturaMetros);
+
     }
 
 }
